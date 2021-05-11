@@ -1,3 +1,8 @@
-Hacer ´npm install´, npm start y a escuchar musica. 
-app subida tambien en "https://topmusic-777.herokuapp.com/"
-:D
+App de música que hice para practicar React y Routes.
+
+Available Scripts
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
